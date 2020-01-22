@@ -1,1 +1,2 @@
 https://www.kaggle.com/farhanmd29/50-startups#50_Startups.csv
+https://medium.com/coinmonks/predicting-a-startups-profit-success-rate-using-multiple-linear-regression-in-python-3ceb91650b24
